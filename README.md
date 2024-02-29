@@ -1,2 +1,2 @@
 # Hakathon_resume
-Наш алгоритм и пояснения к нему находятся в внутри ноутбука Google Colab(pipeline.ipynb)
+Наш алгоритм и пояснения к нему находятся в внутри ноутбука Google Colab(final.ipynb)
